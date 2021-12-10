@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
 import main.java.Employee;
 import main.java.EmployeeManager;
 
-class TestEmpListSize {
+public class TestEmpListSize {
 
     EmployeeManager EM = null;
 

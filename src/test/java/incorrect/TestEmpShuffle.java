@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 
 import main.java.EmployeeManager;
 
-class TestEmpShuffle {
+public class TestEmpShuffle {
 
     EmployeeManager EM = null;
 
